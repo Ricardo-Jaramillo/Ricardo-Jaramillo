@@ -1,4 +1,4 @@
-![Header](./images/Banner.png)
+![Header](./images/Banner2.png)
 
 # 👋 Hi, I'm Ricardo
 
@@ -57,7 +57,7 @@ Git | Jupyter | VS Code | CI/CD Basics | Agile/Scrum
 |--------|-------------|-------|
 | [Sentiment Classifier for WhatsApp](https://github.com/Ricardo-Jaramillo/Sentiment-Analysis) | NLP model for classifying customer replies (spam, interested, rude, etc.) | BERT, Python, Sklearn |
 | [GUI - Control Automated Program for Analysis](https://github.com/Ricardo-Jaramillo/GUI_ControlProgram-AnalysisAutomation) | A user-friendly GUI tool for automating data analysis and control tasks | Python, Tkinter, Pandas |
-| [Python - ML Models](https://github.com/Ricardo-Jaramillo/Python-ML-Models) | Collection of various machine learning models for predictive analytics | Python, Scikit-Learn, Pandas, NumPy |
+| [Python - ML Models](https://github.com/Ricardo-Jaramillo/Python-DataScience) | Collection of various machine learning models for predictive analytics | Python, Scikit-Learn, Pandas, NumPy |
 | [Python - PySpark](https://github.com/Ricardo-Jaramillo/PySpark) | Data processing and analysis with PySpark for large-scale datasets | Python, PySpark, Hadoop |
 | [Python - TensorFlow](https://github.com/Ricardo-Jaramillo/Python-Tensorflow) | Deep learning models built with TensorFlow for classification and regression tasks | Python, TensorFlow, Keras |
 <!--
