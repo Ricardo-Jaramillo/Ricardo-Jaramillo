@@ -1,4 +1,4 @@
-![Header](./images/Banner2.png)
+![Header](./images/Banner3.png)
 
 # 👋 Hi, I'm Ricardo
 
